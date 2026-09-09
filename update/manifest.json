@@ -1,9 +1,9 @@
 {
-    "version":  2,
-    "name":  "1.1.0",
-    "notes":  "תיקון חיבור: כתובת נכונה, קוד אינטרנט גם בלי UPnP, הוראות פתיחת פורט",
-    "sha256":  "f8e85ede884c3421364b29fca9b5cd7c225e27819ae08f6a51981f93963e3d50",
-    "bytes":  557801,
+    "version":  3,
+    "name":  "2.0.0",
+    "notes":  "משחק ברשת דרך שרת: בלי פתיחת פורט, כל אחד יכול לארח",
+    "sha256":  "043b1e9bbd9cf012f0925cd3c810ce4ae56de88f08713700b45b5e0eeae60afc",
+    "bytes":  548921,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
