@@ -1,8 +1,8 @@
 {
-    "version":  1,
-    "name":  "1.0.0",
-    "notes":  "גרסה ראשונה עם עדכון אוטומטי",
-    "sha256":  "0485c9ecee0de5d8d83f6682ae1ca7a241911c9d71a3565bcdd6a735a73d2634",
+    "version":  2,
+    "name":  "1.0.1",
+    "notes":  "בדיקת ערוץ עדכונים חי",
+    "sha256":  "fcff7dbc866e1c546538b66f7154bef5c709952ba669143d92cb66f31c5b6d44",
     "bytes":  542265,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
