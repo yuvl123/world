@@ -1,0 +1,10 @@
+{
+    "version":  1,
+    "name":  "1.0.0",
+    "notes":  "גרסה ראשונה עם עדכון אוטומטי",
+    "sha256":  "0485c9ecee0de5d8d83f6682ae1ca7a241911c9d71a3565bcdd6a735a73d2634",
+    "bytes":  542265,
+    "needs_base":  1,
+    "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
+    "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
+}
