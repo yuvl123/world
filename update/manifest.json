@@ -1,9 +1,9 @@
 {
-    "version":  14,
-    "name":  "3.1.0",
-    "notes":  "יחידות לא נתקעות, מסילה עוקפת אגמים ועוברת דרך חומה בשער, וחומות נבנות גם כשמשהו באמצע",
-    "sha256":  "86f5de8fc31154b78bcd0b0dc3e65126fd6009c9387eed841243cd67243e7592",
-    "bytes":  585833,
+    "version":  15,
+    "name":  "3.1.1",
+    "notes":  "זריעה מחדש בכל שלב, מחיר מצודה עולה, אבנים נגמרות ונעלמות, אין יותר סלעי נפט מיותרים, וכפתור שחרור יחידות",
+    "sha256":  "d66daa739a9b8ebbcedf34dde3170e5a88e70e0fdd3a62c3902c6754b1b581c4",
+    "bytes":  591881,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
