@@ -1,9 +1,9 @@
 {
-    "version":  15,
-    "name":  "3.1.1",
-    "notes":  "זריעה מחדש בכל שלב, מחיר מצודה עולה, אבנים נגמרות ונעלמות, אין יותר סלעי נפט מיותרים, וכפתור שחרור יחידות",
-    "sha256":  "d66daa739a9b8ebbcedf34dde3170e5a88e70e0fdd3a62c3902c6754b1b581c4",
-    "bytes":  591881,
+    "version":  16,
+    "name":  "3.1.2",
+    "notes":  "מספרי +/- כשאוספים ומוציאים, התראה כשתוקפים אותך עם קפיצה לקרב, וכפתורי עבודה לאיכרים",
+    "sha256":  "f359ad6ec9201d154047bce54d8ef1c262088e16a4d55443bdbd78e206134b1e",
+    "bytes":  597657,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
