@@ -1,9 +1,9 @@
 {
-    "version":  17,
-    "name":  "3.1.3",
-    "notes":  "תיקון קריסה בפתיחה",
-    "sha256":  "de26e45617ff602bbd15b5a7477a8e445f5f5a372dd4f3ec44a38b0b94d36668",
-    "bytes":  597641,
+    "version":  18,
+    "name":  "3.2.0",
+    "notes":  "מיקומי פתיחה אקראיים בכל משחק, וטוגל למארח שכל שחקן בוחר בעצמו איפה להתיישב",
+    "sha256":  "c6e5abf753c8d3e45f06f4dc4402489e320914fdde014f4ef8d8e5ba55a72213",
+    "bytes":  598841,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
