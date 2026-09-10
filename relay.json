@@ -1,5 +1,6 @@
 {
-    "url":  "wss://nicholas-autos-procurement-hostel.trycloudflare.com",
-    "started":  "2026-09-10T14:24:29.1433672Z",
-    "note":  "Written by tools/relay/host_server.ps1. Changes every time the server restarts."
+    "url": "wss://nicholas-autos-procurement-hostel.trycloudflare.com",
+    "started": "2026-09-10T14:30:18.275062+00:00",
+    "note": "Written by tools/relay/host_server.ps1. Changes every time the server restarts.",
+    "probe": "freshness-test"
 }
