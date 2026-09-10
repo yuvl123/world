@@ -1,9 +1,9 @@
 {
-    "version":  12,
-    "name":  "3.0.7",
-    "notes":  "שער שנפתח ונסגר, קשתים נראים על המגדל, כבישים מיושרים, חומה חלשה יותר, והריסות שנעלמות",
-    "sha256":  "950dbe9f097fe526cf07f7fc7bfa252c0638c3fda8fbf9ed445522f15627a949",
-    "bytes":  575561,
+    "version":  13,
+    "name":  "3.0.8",
+    "notes":  "תותח מאוזן, טווח מגדל קטן יותר, וקשתים לא נופלים מהמגדל כשמזיזים את הצבא",
+    "sha256":  "fabdae06236e9972980f777fd8e20c8fdb3d50abe6508f81a9e634c7a4d40827",
+    "bytes":  583497,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
