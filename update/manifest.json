@@ -1,9 +1,9 @@
 {
-    "version":  9,
-    "name":  "3.0.4",
-    "notes":  "המשחק כבר לא נתקע בלי הסבר — כולל סוף משחק, המתנה לשחקן, וניתוק",
-    "sha256":  "aac39f91e777dc0febc912afa1ce12b7de30a60d503273c929af330b7b5da7a9",
-    "bytes":  564457,
+    "version":  10,
+    "name":  "3.0.5",
+    "notes":  "אם החיבור נופל באמצע משחק — חוזרים לאותו מקום וממשיכים, במקום שהמשחק ייגמר",
+    "sha256":  "9dbbac749cde9462b0d8da41d346282563bacbdc7e9f6d7ca683d85bdb0ac79c",
+    "bytes":  566649,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
