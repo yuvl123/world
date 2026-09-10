@@ -1,9 +1,9 @@
 {
-    "version":  19,
-    "name":  "3.3.0",
-    "notes":  "מערכי קרב: קו, טריז, ריבוע מגן, פזור וטור. מסמנים צבא, בוחרים מערך, לוחצים על המפה וגוררים לכיוון.",
-    "sha256":  "9ec7a51578b460dd70bd1eb7eb286f5bfacab991a4463570cb82e525507b94d0",
-    "bytes":  610681,
+    "version":  20,
+    "name":  "3.4.0",
+    "notes":  "חצים אמיתיים שרואים ולפעמים מחטיאים, נמל עם רציף וסירה שפונה למים, וכפתור בנאי",
+    "sha256":  "0f75dff1437df73c8f26f8b6ab5828d42b48ed8d9c2e826688a98fdae4e37abf",
+    "bytes":  614761,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
