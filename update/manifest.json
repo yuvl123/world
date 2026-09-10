@@ -1,9 +1,9 @@
 {
-    "version":  22,
-    "name":  "3.5.1",
-    "notes":  "העדכון נכנס מיד אחרי ריסט, בלי להמתין למטמון",
-    "sha256":  "ab59edc3aa407402e0251b6507809c1ea721401243c7ad5b04d6fcc7599a537d",
-    "bytes":  616985,
+    "version":  23,
+    "name":  "3.5.2",
+    "notes":  "הסרת הגורם הסביר ליציאה מסנכרון",
+    "sha256":  "df6612d96a457f7924d66b09d8bd20239f907c75c804ccbaede508c9a83f327f",
+    "bytes":  616313,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
