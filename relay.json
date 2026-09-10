@@ -1,5 +1,5 @@
 {
-    "url": "wss://nicholas-autos-procurement-hostel.trycloudflare.com",
-    "started": "2026-09-10T14:30:18.275062+00:00",
-    "note": "Written by tools/relay/host_server.ps1. Changes every time the server restarts."
+    "url":  "wss://cams-fog-reg-generator.trycloudflare.com",
+    "started":  "2026-09-10T15:20:01.8032723Z",
+    "note":  "Written by tools/relay/host_server.ps1. Changes every time the server restarts."
 }
