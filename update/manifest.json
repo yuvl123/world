@@ -1,9 +1,9 @@
 {
-    "version":  20,
-    "name":  "3.4.0",
-    "notes":  "חצים אמיתיים שרואים ולפעמים מחטיאים, נמל עם רציף וסירה שפונה למים, וכפתור בנאי",
-    "sha256":  "0f75dff1437df73c8f26f8b6ab5828d42b48ed8d9c2e826688a98fdae4e37abf",
-    "bytes":  614761,
+    "version":  21,
+    "name":  "3.5.0",
+    "notes":  "עד 8 שחקנים בחדר",
+    "sha256":  "1f62b4a2c901cd8df8fc4a744e7f476c40586e0df0c7a52ed535ca46052c2e9e",
+    "bytes":  617017,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
