@@ -1,9 +1,9 @@
 {
-    "version":  23,
-    "name":  "3.5.2",
-    "notes":  "הסרת הגורם הסביר ליציאה מסנכרון",
-    "sha256":  "df6612d96a457f7924d66b09d8bd20239f907c75c804ccbaede508c9a83f327f",
-    "bytes":  616313,
+    "version":  24,
+    "name":  "3.6.0",
+    "notes":  "הסימולציה מהירה ב-31% במקרה הגרוע - פחות טקעות עם הרבה חיילים ומבנים. ודוח אבחון אם יוצאים מסנכרון.",
+    "sha256":  "6cce4654fdad8865c8f9045846fb8f71cf1fd0b54a691b38b680306663198f13",
+    "bytes":  621689,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
