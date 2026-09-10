@@ -1,9 +1,9 @@
 {
-    "version":  21,
-    "name":  "3.5.0",
-    "notes":  "עד 8 שחקנים בחדר",
-    "sha256":  "1f62b4a2c901cd8df8fc4a744e7f476c40586e0df0c7a52ed535ca46052c2e9e",
-    "bytes":  617017,
+    "version":  22,
+    "name":  "3.5.1",
+    "notes":  "העדכון נכנס מיד אחרי ריסט, בלי להמתין למטמון",
+    "sha256":  "ab59edc3aa407402e0251b6507809c1ea721401243c7ad5b04d6fcc7599a537d",
+    "bytes":  616985,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
