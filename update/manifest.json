@@ -1,9 +1,9 @@
 {
-    "version":  11,
-    "name":  "3.0.6",
-    "notes":  "העדכון מתקין את עצמו נכון בפעם הראשונה, בלי הודעת שגיאה מיותרת",
-    "sha256":  "3c02e356d26cc18bff0e346eaf09c5651c1fb31de244ca8c51f24bec86c91547",
-    "bytes":  567241,
+    "version":  12,
+    "name":  "3.0.7",
+    "notes":  "שער שנפתח ונסגר, קשתים נראים על המגדל, כבישים מיושרים, חומה חלשה יותר, והריסות שנעלמות",
+    "sha256":  "950dbe9f097fe526cf07f7fc7bfa252c0638c3fda8fbf9ed445522f15627a949",
+    "bytes":  575561,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
