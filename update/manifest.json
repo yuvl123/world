@@ -1,9 +1,9 @@
 {
-    "version":  7,
-    "name":  "3.0.2",
-    "notes":  "תיקון: המשחק מוצא את השרת גם מיד אחרי שמפעילים אותו",
-    "sha256":  "3559c2afcbac0f129b18bd8066260b87e891d66c23cae76cd71e4b58e8e5a5fc",
-    "bytes":  552617,
+    "version":  8,
+    "name":  "3.0.3",
+    "notes":  "תיקון תקיעות באמצע משחק, החיילים לא הורסים יותר את המסילה, והשרת מוכן ברגע שהוא אומר שהוא מוכן",
+    "sha256":  "fd95d6d0060c5e78155313085655ad78ea1ab5d89ae1511aa23891f434a5efe4",
+    "bytes":  564137,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
