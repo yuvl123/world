@@ -1,9 +1,9 @@
 {
-    "version":  18,
-    "name":  "3.2.0",
-    "notes":  "מיקומי פתיחה אקראיים בכל משחק, וטוגל למארח שכל שחקן בוחר בעצמו איפה להתיישב",
-    "sha256":  "c6e5abf753c8d3e45f06f4dc4402489e320914fdde014f4ef8d8e5ba55a72213",
-    "bytes":  598841,
+    "version":  19,
+    "name":  "3.3.0",
+    "notes":  "מערכי קרב: קו, טריז, ריבוע מגן, פזור וטור. מסמנים צבא, בוחרים מערך, לוחצים על המפה וגוררים לכיוון.",
+    "sha256":  "9ec7a51578b460dd70bd1eb7eb286f5bfacab991a4463570cb82e525507b94d0",
+    "bytes":  610681,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
