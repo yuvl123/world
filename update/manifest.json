@@ -1,9 +1,9 @@
 {
-    "version":  13,
-    "name":  "3.0.8",
-    "notes":  "תותח מאוזן, טווח מגדל קטן יותר, וקשתים לא נופלים מהמגדל כשמזיזים את הצבא",
-    "sha256":  "fabdae06236e9972980f777fd8e20c8fdb3d50abe6508f81a9e634c7a4d40827",
-    "bytes":  583497,
+    "version":  14,
+    "name":  "3.1.0",
+    "notes":  "יחידות לא נתקעות, מסילה עוקפת אגמים ועוברת דרך חומה בשער, וחומות נבנות גם כשמשהו באמצע",
+    "sha256":  "86f5de8fc31154b78bcd0b0dc3e65126fd6009c9387eed841243cd67243e7592",
+    "bytes":  585833,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
