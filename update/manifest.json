@@ -1,8 +1,8 @@
 {
-    "version":  4,
-    "name":  "2.1.0",
-    "notes":  "השרת רץ על המחשב של המארח - בלי חשבונות ובלי מגבלות",
-    "sha256":  "5252db992e912b5aae854e9370058b19d128d4e1715ba1fab2c4cb179c83f48e",
+    "version":  5,
+    "name":  "3.0.0",
+    "notes":  "שרת מקומי - לוחצים על הקיצור בשולחן העבודה ומשחקים",
+    "sha256":  "d6a424e7217b0c8b3362ce9b09d5f556937e94b7de974e2f7ea9e0dac384b027",
     "bytes":  550153,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
