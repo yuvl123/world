@@ -1,9 +1,9 @@
 {
-    "version":  3,
-    "name":  "2.0.0",
-    "notes":  "משחק ברשת דרך שרת: בלי פתיחת פורט, כל אחד יכול לארח",
-    "sha256":  "043b1e9bbd9cf012f0925cd3c810ce4ae56de88f08713700b45b5e0eeae60afc",
-    "bytes":  548921,
+    "version":  4,
+    "name":  "2.1.0",
+    "notes":  "השרת רץ על המחשב של המארח - בלי חשבונות ובלי מגבלות",
+    "sha256":  "5252db992e912b5aae854e9370058b19d128d4e1715ba1fab2c4cb179c83f48e",
+    "bytes":  550153,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
