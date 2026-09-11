@@ -1,9 +1,9 @@
 {
-    "version":  41,
-    "name":  "3.14.0",
-    "notes":  "אופטימיזציית ליבה: שיפור 50% במהירות חישוב יחידות ותותחים, ומניעת תקיעות",
-    "sha256":  "9bf556e7070285fa118949367dd2b23630c3b5915fe344395070c95b562229a6",
-    "bytes":  15564777,
+    "version":  42,
+    "name":  "3.14.1",
+    "notes":  "ספירה לאחור חכמה לשחרור חדר בהמתנה לשחקן, מניעת תקיעות ודיסינקים",
+    "sha256":  "c4a2fc305d242328a5e400be82754f239014b70a69a162f813ca5aff9304dc59",
+    "bytes":  15564985,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
