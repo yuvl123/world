@@ -1,10 +1,10 @@
 {
-  "version": 25,
-  "name": "3.6.1",
-  "notes": "פחות תקיעות בקרבות עם תותחים ובהקמה והריסה של הרבה חומות וגם תנועה חלקה יותר של החיילים",
-  "sha256": "cab4f28bd858bc79e30d939f5856512b0304227592facf2c25d132657882faae",
-  "bytes": 633897,
-  "needs_base": 1,
-  "url": "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
-  "full_download_note": "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
+    "version":  26,
+    "name":  "3.7.0",
+    "notes":  "שליטה ידנית בספינות, העלאה והורדה ברדיוס ירוק, תור ייצור מרובה בנמל, סגירה ופתיחה של פאנל ממלכות, בחירת תמונת דגל מתיקיית תמונות",
+    "sha256":  "76330c4d3fb70b05b2619caa4e939030986486460e22941b0ebce1441f2fd5ed",
+    "bytes":  766553,
+    "needs_base":  1,
+    "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
+    "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
