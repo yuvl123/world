@@ -1,10 +1,10 @@
 {
-    "version":  37,
+    "version":  38,
     "name":  "3.12.0",
     "notes":  "מערכת סאונד מלאה: מוזיקת ימי הביניים בלובי ובמשחק, אפקטי קול (שופר, חרבות, חצים, תותחים, בנייה), ותפריט הגדרות שמע ב-ESC ובתפריט הראשי",
-    "sha256":  "30582789148e49c27cf6121c66f75aa9356a256d616803890cedfc4b9e062594",
-    "bytes":  876057,
-    "needs_base":  2,
+    "sha256":  "265758a40f20b9866750535c2cdb1c9f695cc798ffa02bdcadb87492a48b8ab7",
+    "bytes":  878089,
+    "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
