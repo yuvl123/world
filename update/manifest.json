@@ -1,9 +1,9 @@
 {
-    "version":  30,
-    "name":  "3.8.0",
-    "notes":  "רמות קושי לבוטים, דיפלומטיה, חומות בהרים, סדר בנאים, מיליציה במצודה, זהב, תבניות דגלי מדינות וצבעי מפה",
-    "sha256":  "938c2193e91d06b9ebef7a4bab6c19caacaca77e8568cfe199de705103215b9e",
-    "bytes":  782249,
+    "version":  31,
+    "name":  "3.8.1",
+    "notes":  "חומות על מסילות, מניעת תקיעות בבנייה ושיפור FPS דרמטי",
+    "sha256":  "a0f8852d157350061da2d2dff69852e1267f1420cc6bb3f23cb8897b6f839e75",
+    "bytes":  786441,
     "needs_base":  2,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
