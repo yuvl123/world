@@ -1,9 +1,9 @@
 {
-    "version":  28,
-    "name":  "3.7.2",
-    "notes":  "פיזור חוטבי עצים לעצים שונים, תיקון עמידת חיילים ומצבי קרב, פיזור מטרות בקרב, ושינוי שמות תחנות רכבת",
-    "sha256":  "eb1f42a7611cb6ccb8fbf53b0b5a3defc0254332c2e9e49238b4ebd961a58235",
-    "bytes":  771641,
+    "version":  29,
+    "name":  "3.7.3",
+    "notes":  "תיקון גלילה והתאמת גובה של מסך הלובי, הצגת כפתור התחל משחק וסגירת חדר",
+    "sha256":  "2375d80809a01f1b446ef666f1fb145f4ee959c5e6655978cc6fc7c0eab6b261",
+    "bytes":  772329,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
