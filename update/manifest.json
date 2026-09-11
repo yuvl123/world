@@ -1,9 +1,9 @@
 {
-    "version":  47,
-    "name":  "3.18.0",
-    "notes":  "חטיבות וגנרלים: בחירה אוטומטית, פריסה טקטית מסודרת עם קשתים מאחור וכפתור צירוף חיילים קרובים",
-    "sha256":  "3d2adeb2612d4dbdfccfcc124368e3faa5f2d5ac42de18ea0ea9b350818c92e1",
-    "bytes":  15637081,
+    "version":  48,
+    "name":  "3.18.1",
+    "notes":  "תיקון צבעי ממלכות באונליין: צבעים אחידים לכל שחקן בכל המסכים, סרגל צבע ברשימת הממלכות והדגשת בסיסים במפה",
+    "sha256":  "55c0f04c51d182f058b0f8118cc20122e5877c25b8c552dec999ecf652348575",
+    "bytes":  15638361,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
