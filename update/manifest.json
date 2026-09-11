@@ -1,9 +1,9 @@
 {
-    "version":  49,
-    "name":  "3.19.0",
-    "notes":  "עיצוב וסידור תפריטים, 5 כרטיסיות יחידות בתחתית, מרפאה אזורית, איזון תותחים, תקיפה במערך ומניעת קריסות ותקיעות בקרב",
-    "sha256":  "21eb4f4981093cb4d2b8364a9befce7b0d441113ed8652a86cf7c601177b0032",
-    "bytes":  15646985,
+    "version":  50,
+    "name":  "3.19.1",
+    "notes":  "תיקון שבירת שמות ממלכות לאותיות אנכיות בלוח הממלכות",
+    "sha256":  "b1a6fad3d3ecae94550dbea305d488b52b8933e5383be272777a23da805a8ccf",
+    "bytes":  15647065,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
