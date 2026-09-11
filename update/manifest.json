@@ -1,10 +1,10 @@
 {
-    "version":  29,
-    "name":  "3.7.3",
-    "notes":  "תיקון גלילה והתאמת גובה של מסך הלובי, הצגת כפתור התחל משחק וסגירת חדר",
-    "sha256":  "2375d80809a01f1b446ef666f1fb145f4ee959c5e6655978cc6fc7c0eab6b261",
-    "bytes":  772329,
-    "needs_base":  1,
+    "version":  30,
+    "name":  "3.8.0",
+    "notes":  "רמות קושי לבוטים, דיפלומטיה, חומות בהרים, סדר בנאים, מיליציה במצודה, זהב, תבניות דגלי מדינות וצבעי מפה",
+    "sha256":  "938c2193e91d06b9ebef7a4bab6c19caacaca77e8568cfe199de705103215b9e",
+    "bytes":  782249,
+    "needs_base":  2,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
