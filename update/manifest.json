@@ -1,10 +1,10 @@
 {
-    "version":  31,
-    "name":  "3.8.1",
-    "notes":  "חומות על מסילות, מניעת תקיעות בבנייה ושיפור FPS דרמטי",
-    "sha256":  "a0f8852d157350061da2d2dff69852e1267f1420cc6bb3f23cb8897b6f839e75",
-    "bytes":  786441,
-    "needs_base":  2,
+    "version":  32,
+    "name":  "3.8.2",
+    "notes":  "עדכון אוטומטי, מניעת קריסה באי-סנכרון ומפת איים חדשה",
+    "sha256":  "66bbe48f725a183cefc6f02a35699e5de131a34271ae0d7adff36d4e5927b4e9",
+    "bytes":  793513,
+    "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
