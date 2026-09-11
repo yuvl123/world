@@ -1,9 +1,9 @@
 {
-    "version":  32,
-    "name":  "3.8.2",
-    "notes":  "עדכון אוטומטי, מניעת קריסה באי-סנכרון ומפת איים חדשה",
-    "sha256":  "66bbe48f725a183cefc6f02a35699e5de131a34271ae0d7adff36d4e5927b4e9",
-    "bytes":  793513,
+    "version":  33,
+    "name":  "3.8.3",
+    "notes":  "תיקון נראות דמויות (Frustum Culling)",
+    "sha256":  "761bdde12532a2d25c337bfac3321fac078250cc4733697f54a6a5b33e141295",
+    "bytes":  793737,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
