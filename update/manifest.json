@@ -1,10 +1,10 @@
 {
-    "version":  46,
+    "version":  47,
     "name":  "3.18.0",
     "notes":  "חטיבות וגנרלים: בחירה אוטומטית, פריסה טקטית מסודרת עם קשתים מאחור וכפתור צירוף חיילים קרובים",
-    "sha256":  "11fbf4196af4ec46e7f5739386da848aac57432ea8fffa6e264ab0315ff0a6cf",
+    "sha256":  "3d2adeb2612d4dbdfccfcc124368e3faa5f2d5ac42de18ea0ea9b350818c92e1",
     "bytes":  15637081,
-    "needs_base":  2,
+    "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
