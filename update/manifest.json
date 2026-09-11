@@ -1,9 +1,9 @@
 {
-    "version":  27,
-    "name":  "3.7.1",
-    "notes":  "תיקון התקרבות ספינות לקו החוף במים רדודים, ופתיחת דיאלוג קבצים אמיתי של Windows לבחירת דגל",
-    "sha256":  "23a10700371a09d390ca4999cb816d6c063512c6c896f991704a6fe35be8c24a",
-    "bytes":  766793,
+    "version":  28,
+    "name":  "3.7.2",
+    "notes":  "פיזור חוטבי עצים לעצים שונים, תיקון עמידת חיילים ומצבי קרב, פיזור מטרות בקרב, ושינוי שמות תחנות רכבת",
+    "sha256":  "eb1f42a7611cb6ccb8fbf53b0b5a3defc0254332c2e9e49238b4ebd961a58235",
+    "bytes":  771641,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
