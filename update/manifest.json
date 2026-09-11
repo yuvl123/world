@@ -1,9 +1,9 @@
 {
-    "version":  33,
-    "name":  "3.8.3",
-    "notes":  "תיקון נראות דמויות (Frustum Culling)",
-    "sha256":  "761bdde12532a2d25c337bfac3321fac078250cc4733697f54a6a5b33e141295",
-    "bytes":  793737,
+    "version":  34,
+    "name":  "3.9.0",
+    "notes":  "לוחמי מגן, סריסופורים מקדוניים, תקיפה בתנועה, משמעת פורמציה, סינון כוחות ושליטה בספינות",
+    "sha256":  "f3e808b72295584f70246de472ff2b9b539f5f9898069c8b49392c7f0baca294",
+    "bytes":  803577,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
