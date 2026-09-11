@@ -1,9 +1,9 @@
 {
-    "version":  26,
-    "name":  "3.7.0",
-    "notes":  "שליטה ידנית בספינות, העלאה והורדה ברדיוס ירוק, תור ייצור מרובה בנמל, סגירה ופתיחה של פאנל ממלכות, בחירת תמונת דגל מתיקיית תמונות",
-    "sha256":  "76330c4d3fb70b05b2619caa4e939030986486460e22941b0ebce1441f2fd5ed",
-    "bytes":  766553,
+    "version":  27,
+    "name":  "3.7.1",
+    "notes":  "תיקון התקרבות ספינות לקו החוף במים רדודים, ופתיחת דיאלוג קבצים אמיתי של Windows לבחירת דגל",
+    "sha256":  "23a10700371a09d390ca4999cb816d6c063512c6c896f991704a6fe35be8c24a",
+    "bytes":  766793,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
