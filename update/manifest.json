@@ -1,10 +1,10 @@
 {
-    "version":  36,
-    "name":  "3.11.0",
-    "notes":  "ספינות דייג, ציי ספינות, דגמי ספינות מאה 18, הפגזת חוף, ותותח קל וכבד",
-    "sha256":  "46c503af77ec1d287aac48a6c86bf7054741d8d172c7563d98d523e3e74d720f",
-    "bytes":  848089,
-    "needs_base":  1,
+    "version":  37,
+    "name":  "3.12.0",
+    "notes":  "מערכת סאונד מלאה: מוזיקת ימי הביניים בלובי ובמשחק, אפקטי קול (שופר, חרבות, חצים, תותחים, בנייה), ותפריט הגדרות שמע ב-ESC ובתפריט הראשי",
+    "sha256":  "30582789148e49c27cf6121c66f75aa9356a256d616803890cedfc4b9e062594",
+    "bytes":  876057,
+    "needs_base":  2,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
