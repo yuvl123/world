@@ -1,9 +1,9 @@
 {
-    "version":  39,
-    "name":  "3.12.0",
-    "notes":  "תיקון מסך אפור: מוזיקה, צלילים והגדרות שמע",
-    "sha256":  "99a0baccafe02adbabf6672c1d825002ae348ca4565d969357bb2b6033b4c6ec",
-    "bytes":  878217,
+    "version":  40,
+    "name":  "3.13.0",
+    "notes":  "מוזיקה אמיתית מימי הביניים: חלילים, לאוטה, תופי מלחמה וקרן קרב ויקינגית",
+    "sha256":  "e2127c5c9c5f3f458e4bc07ae67a88ffbee9bb32bd29ce1a64c00548fde5c52a",
+    "bytes":  15564265,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
