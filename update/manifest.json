@@ -1,9 +1,9 @@
 {
-    "version":  59,
-    "name":  "3.24.0",
-    "notes":  "מונה הורדות והפעלות שחקנים אוטומטי",
-    "sha256":  "b21acf01ef136b10095fbbb7f9921bc850b700c590fd6bfffbf8d34a1f55f7ee",
-    "bytes":  15680921,
+    "version":  60,
+    "name":  "3.24.1",
+    "notes":  "תיעוד שמות שחקנים ומחשב במונה ההורדות",
+    "sha256":  "4e75b506bfbedbfcf1dbb8ffe83241cece1a4ce6405abd624e7b754f5efca0e8",
+    "bytes":  15681673,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
