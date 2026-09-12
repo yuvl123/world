@@ -1,9 +1,9 @@
 {
-    "version":  56,
-    "name":  "3.21.1",
-    "notes":  "הדגשת גרסה במסך הראשי, כותרת 4 ביומות והדגשת מפה עצומה במסך בחירת המשחק",
-    "sha256":  "f80fced02dd664d472c4100fc381b9744d3022f469383d3da10ca10e3f00992d",
-    "bytes":  15669673,
+    "version":  57,
+    "name":  "3.22.0",
+    "notes":  "הגדלת מגבלת יחידות ל-600 לכל שחקן (עד 3600 יחידות בקרב ענק), אופטימיזציית מלחמות ענק למניעת תקיעות ואימות 0 קריסות",
+    "sha256":  "3d8352628888347fc1e6eb6e5a5ed1a4090ab09922a5b68f6cc5be9201a188e7",
+    "bytes":  15673561,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
