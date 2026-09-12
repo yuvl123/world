@@ -1,9 +1,9 @@
 {
-    "version":  54,
-    "name":  "3.20.2",
-    "notes":  "הגדרות מזג אוויר ויום/לילה במסך פתיחת המשחק (תיבות סימון לבחירת יום/לילה, גשם ושלג, או יום רגיל כשהכל כבוי)",
-    "sha256":  "3669f5cf39f228bcd4797713336cd975b0f8f02d626adb8c2e7d3d16a0d7f9e8",
-    "bytes":  15665641,
+    "version":  55,
+    "name":  "3.21.0",
+    "notes":  "מפת ענק עצומה (3072 מטר), 4 ביומות (מדבר, שלג, ג\u0027ונגל ורגיל), הגדרות מזג אוויר ויום/לילה במסך הפתיחה",
+    "sha256":  "576120ed413b9f9a85c5d0d56fcb705c41d97de7501e4ccbae5a4a845a02f5ca",
+    "bytes":  15669513,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
