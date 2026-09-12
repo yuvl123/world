@@ -1,10 +1,10 @@
 {
-    "version":  51,
-    "name":  "3.19.2",
-    "notes":  "איכרים מובטלים, רקע שקוף לכרטיסיות, צבעים וסימונים במינימפ",
-    "sha256":  "4a471a42ff28fca33d74a310d560012e837ff51dc6fc825deddb668ee61ae7e4",
-    "bytes":  15649305,
-    "needs_base":  1,
+    "version":  52,
+    "name":  "3.20.0",
+    "notes":  "שעון ולוח שנה משולב, מחזור יום ולילה, מזג אוויר וגשם/שלג, עשן ארובות, תאורת לילה בבתים ותיקון קריסת שמירה באונליין",
+    "sha256":  "d584ee703b0b80915ea1bf11408cae86ba28cc4420d785bfddbc617b1f3f9764",
+    "bytes":  15663065,
+    "needs_base":  2,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
