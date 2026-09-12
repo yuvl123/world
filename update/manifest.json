@@ -1,9 +1,9 @@
 {
-    "version":  57,
-    "name":  "3.22.0",
-    "notes":  "הגדלת מגבלת יחידות ל-600 לכל שחקן (עד 3600 יחידות בקרב ענק), אופטימיזציית מלחמות ענק למניעת תקיעות ואימות 0 קריסות",
-    "sha256":  "3d8352628888347fc1e6eb6e5a5ed1a4090ab09922a5b68f6cc5be9201a188e7",
-    "bytes":  15673561,
+    "version":  58,
+    "name":  "3.23.0",
+    "notes":  "שמירה על פורמציה בהסתערות ומצב תוקפני + כפתור תקיפה פתוחה",
+    "sha256":  "3ba1cad3e7f9ef44a45bb820377c4e6e4ccda632b35b05ff2f3bb1018508370c",
+    "bytes":  15678633,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
