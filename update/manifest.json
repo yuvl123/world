@@ -1,9 +1,9 @@
 {
-    "version":  60,
-    "name":  "3.24.1",
-    "notes":  "תיעוד שמות שחקנים ומחשב במונה ההורדות",
-    "sha256":  "4e75b506bfbedbfcf1dbb8ffe83241cece1a4ce6405abd624e7b754f5efca0e8",
-    "bytes":  15681673,
+    "version":  61,
+    "name":  "3.25.0",
+    "notes":  "תיקון תקיעות וקריסות בצבאות ענק (צעד סימולציה מהיר פי 2), גשם ושלג תלת-ממדיים אמיתיים עם שלוליות והתזות, ברקים ושריפות, לילה מאוזן, אקלימים באזורים גדולים עם אפשרות לכבות, החזרת הגרפיקה המקורית וממשק קומפקטי",
+    "sha256":  "8ac6b47ba90ef46b4e4be9109a0558ab91c3e644a992ce8fd8a592c5271c9c7e",
+    "bytes":  15720537,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
