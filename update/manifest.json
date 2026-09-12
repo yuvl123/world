@@ -1,9 +1,9 @@
 {
-    "version":  55,
-    "name":  "3.21.0",
-    "notes":  "מפת ענק עצומה (3072 מטר), 4 ביומות (מדבר, שלג, ג\u0027ונגל ורגיל), הגדרות מזג אוויר ויום/לילה במסך הפתיחה",
-    "sha256":  "576120ed413b9f9a85c5d0d56fcb705c41d97de7501e4ccbae5a4a845a02f5ca",
-    "bytes":  15669513,
+    "version":  56,
+    "name":  "3.21.1",
+    "notes":  "הדגשת גרסה במסך הראשי, כותרת 4 ביומות והדגשת מפה עצומה במסך בחירת המשחק",
+    "sha256":  "f80fced02dd664d472c4100fc381b9744d3022f469383d3da10ca10e3f00992d",
+    "bytes":  15669673,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
