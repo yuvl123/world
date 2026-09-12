@@ -1,10 +1,10 @@
 {
-    "version":  52,
-    "name":  "3.20.0",
-    "notes":  "שעון ולוח שנה משולב, מחזור יום ולילה, מזג אוויר וגשם/שלג, עשן ארובות, תאורת לילה בבתים ותיקון קריסת שמירה באונליין",
-    "sha256":  "d584ee703b0b80915ea1bf11408cae86ba28cc4420d785bfddbc617b1f3f9764",
+    "version":  53,
+    "name":  "3.20.1",
+    "notes":  "תיקון עדכון אוטומטי (base 1), שעון ולוח שנה, מחזור יום ולילה, מזג אוויר וגשם/שלג, עשן ארובות, תאורת לילה בבתים ותיקון שמירה באונליין",
+    "sha256":  "3b9072955c1c9e1a6ab9aca5b07a0bbebac68e003d4e759416f10cbefb49618f",
     "bytes":  15663065,
-    "needs_base":  2,
+    "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
 }
