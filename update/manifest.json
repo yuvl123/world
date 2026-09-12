@@ -1,9 +1,9 @@
 {
-    "version":  50,
-    "name":  "3.19.1",
-    "notes":  "תיקון שבירת שמות ממלכות לאותיות אנכיות בלוח הממלכות",
-    "sha256":  "b1a6fad3d3ecae94550dbea305d488b52b8933e5383be272777a23da805a8ccf",
-    "bytes":  15647065,
+    "version":  51,
+    "name":  "3.19.2",
+    "notes":  "איכרים מובטלים, רקע שקוף לכרטיסיות, צבעים וסימונים במינימפ",
+    "sha256":  "4a471a42ff28fca33d74a310d560012e837ff51dc6fc825deddb668ee61ae7e4",
+    "bytes":  15649305,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
