@@ -1,9 +1,9 @@
 {
-    "version":  58,
-    "name":  "3.23.0",
-    "notes":  "שמירה על פורמציה בהסתערות ומצב תוקפני + כפתור תקיפה פתוחה",
-    "sha256":  "3ba1cad3e7f9ef44a45bb820377c4e6e4ccda632b35b05ff2f3bb1018508370c",
-    "bytes":  15678633,
+    "version":  59,
+    "name":  "3.24.0",
+    "notes":  "מונה הורדות והפעלות שחקנים אוטומטי",
+    "sha256":  "b21acf01ef136b10095fbbb7f9921bc850b700c590fd6bfffbf8d34a1f55f7ee",
+    "bytes":  15680921,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
