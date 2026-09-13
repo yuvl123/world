@@ -1,9 +1,9 @@
 {
-    "version":  66,
-    "name":  "3.31.0",
-    "notes":  "מפת טבעת חדשה עם ים פנימי, וקולות קרב אנושיים למפקדים",
-    "sha256":  "288cc6dbb9b25b175461254975ace59ca5535ee6a640d8f02d5969c3892c881b",
-    "bytes":  16095225,
+    "version":  67,
+    "name":  "3.32.0",
+    "notes":  "תיקון קריטי בסנכרון מולטיפלייר (שכירי חרב ומבנים), מפת טבעת וקולות אנושיים",
+    "sha256":  "2c9e915f3e092a1e39a28b998b60d861ab1db9681a9ff0fea2be02683423365b",
+    "bytes":  16097561,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
