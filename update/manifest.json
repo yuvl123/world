@@ -1,9 +1,9 @@
 {
-    "version":  67,
-    "name":  "3.32.0",
-    "notes":  "תיקון קריטי בסנכרון מולטיפלייר (שכירי חרב ומבנים), מפת טבעת וקולות אנושיים",
-    "sha256":  "2c9e915f3e092a1e39a28b998b60d861ab1db9681a9ff0fea2be02683423365b",
-    "bytes":  16097561,
+    "version":  68,
+    "name":  "3.33.0",
+    "notes":  "בית גדול (Big House): 200 עץ, 25 אוכלוסייה, מודל חדש ו-AI מעודכן",
+    "sha256":  "19e7e520cad241e41bde4fc14bb445ad75fbeab4a335151ce8176d648043b867",
+    "bytes":  16103417,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
