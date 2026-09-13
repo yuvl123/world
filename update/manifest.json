@@ -1,9 +1,9 @@
 {
-    "version":  64,
-    "name":  "3.28.0",
-    "notes":  "תיקון תקיעות בקרב ליד חומות (פסי חיים בהעלאה אחת במקום אלפי קריאות בפריים) ותיקון תקיעה כששולחים צבא גדול רחוק על המפה (תקציב חישוב מסלולים לפי מרחק)",
-    "sha256":  "bffb72b94b6c3331e7338b587112070f52595d09d58b6d5422794acee3c4f1bb",
-    "bytes":  15741401,
+    "version":  65,
+    "name":  "3.30.0",
+    "notes":  "קולות קרב למפקדים, מחנה שכירי חרב, תיקוני פקודות הסתערות וערפל קרב",
+    "sha256":  "491b1d32f2ef8de5287d8ce9244fb0a78e9da43cbf17fe06ea9e5a44d69bebac",
+    "bytes":  16478809,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
