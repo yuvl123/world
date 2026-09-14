@@ -1,5 +1,5 @@
 {
-    "url":  "wss://systems-incidence-trout-older.trycloudflare.com",
-    "started":  "2026-09-14T16:28:00.9545033Z",
+    "url":  "wss://pages-cached-server-oval.trycloudflare.com",
+    "started":  "2026-09-14T16:42:00.0759142Z",
     "note":  "Written by tools/relay/host_server.ps1. Changes every time the server restarts."
 }
