@@ -1,9 +1,9 @@
 {
-    "version":  69,
-    "name":  "3.34.0",
-    "notes":  "מסך בית חי עם שלט אצולה, מצב יצירתי, אימון המוני, ואיזון שכירי חרב וציים",
-    "sha256":  "ced6547c5d51a50e1158e3d3cfad490e3fab5db72fd5e15a880ca96496bb8544",
-    "bytes":  16198761,
+    "version":  70,
+    "name":  "3.35.0",
+    "notes":  "מיזוג מלא: הצגת נתוני יחידות ו-DPS, שרטוט חזית בעכבר, ריפוי עצמי, לגיונרים רומיים, תיקוני לאנצ\u0027ר ושרת",
+    "sha256":  "6a24a4ceaedeecf733c769028b5d23fd2ae20fb5c9dfa780911c560ffc20c35a",
+    "bytes":  17563737,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
