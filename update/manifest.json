@@ -1,9 +1,9 @@
 {
-    "version":  71,
-    "name":  "3.36.0",
-    "notes":  "מפת אירופה מלאה (ימים פנימיים וסילואט יבשת), אנימציות עבודה מובחנות לחטיבה/כרייה/קציר, אנימציית הסתערות קרב, ונתוני לגיון רומי",
-    "sha256":  "aafb4cdd34f21688ab0e2b2922bc96182e5b9bead2cc89f9405bba13b84c6d96",
-    "bytes":  17573353,
+    "version":  73,
+    "name":  "3.37.0",
+    "notes":  "קרבות מתקדמים, פיזור מטרות, יחידות צבא חדשות, גשרים אלכסוניים והגדרות גרפיקה",
+    "sha256":  "84f0373a486c450d34dc2430c4c8e0c31faade2260bcf4c34d6fdfd4d82ac282",
+    "bytes":  17678825,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
