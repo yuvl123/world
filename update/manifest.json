@@ -1,9 +1,9 @@
 {
-    "version":  74,
-    "name":  "3.38.0",
-    "notes":  "הסרת הגדרות גרפיקה, שחזור הגדרות תצוגה מקוריות וקרבות יציבים",
-    "sha256":  "3e662deca069b499e26be770ebc17e9e7b98cdf56be01bf5b2d944e043da5a88",
-    "bytes":  17666409,
+    "version":  75,
+    "name":  "3.39.0",
+    "notes":  "תיקון גשרים אלכסוניים ופניות ללא חורים ומעקות פנימיים",
+    "sha256":  "6ac48a8fcd8e6c5f2386f5a6039460ebefac968195e3a71525792b25ef0bcddf",
+    "bytes":  17666505,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
