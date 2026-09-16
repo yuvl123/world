@@ -1,9 +1,9 @@
 {
-    "version":  75,
-    "name":  "3.39.0",
-    "notes":  "תיקון גשרים אלכסוניים ופניות ללא חורים ומעקות פנימיים",
-    "sha256":  "6ac48a8fcd8e6c5f2386f5a6039460ebefac968195e3a71525792b25ef0bcddf",
-    "bytes":  17666505,
+    "version":  76,
+    "name":  "3.40.0",
+    "notes":  "מסילות רכבת על גבי גשרים, חילוץ מטביעה, אופטימיזציית ניווט ומודל אביר",
+    "sha256":  "01a1c1c0dcb225e2e7ead8cceea547029d6ea4168a4d72868941f5e6f5ff5da3",
+    "bytes":  17699625,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
