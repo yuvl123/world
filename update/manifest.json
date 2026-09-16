@@ -1,9 +1,9 @@
 {
-    "version":  76,
-    "name":  "3.40.0",
-    "notes":  "מסילות רכבת על גבי גשרים, חילוץ מטביעה, אופטימיזציית ניווט ומודל אביר",
-    "sha256":  "01a1c1c0dcb225e2e7ead8cceea547029d6ea4168a4d72868941f5e6f5ff5da3",
-    "bytes":  17699625,
+    "version":  77,
+    "name":  "3.41.0",
+    "notes":  "מפת כדור הארץ (Earth), מבט עולם מורחב ואופטימיזציית רשת קרקע",
+    "sha256":  "329b7b1e923385e539507a73fb5b2301b1c5e90e0be137aabb4921e693b562e6",
+    "bytes":  20717401,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
