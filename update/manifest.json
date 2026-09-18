@@ -1,9 +1,9 @@
 {
-    "version":  78,
-    "name":  "3.42.0",
-    "notes":  "תיקון קריסות ספינות וגשרים ומערכת לוגים",
-    "sha256":  "47ef817f17e63e31f46173325302028a25fc778c41ef91e0c90e7571c377200f",
-    "bytes":  20827977,
+    "version":  79,
+    "name":  "3.43.0",
+    "notes":  "שיפורי זום ומצלמה למפת עולם, יערות טבעיים, העשרת משאבים וזהב באנטארקטיקה, ושיפורי FPS",
+    "sha256":  "b6fecae490b6e27b9aaaaa4b4745670452b3c864c46443a184b976cf3218d0f3",
+    "bytes":  20836185,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
