@@ -1,9 +1,9 @@
 {
-    "version":  77,
-    "name":  "3.41.0",
-    "notes":  "מפת כדור הארץ (Earth), מבט עולם מורחב ואופטימיזציית רשת קרקע",
-    "sha256":  "329b7b1e923385e539507a73fb5b2301b1c5e90e0be137aabb4921e693b562e6",
-    "bytes":  20717401,
+    "version":  78,
+    "name":  "3.42.0",
+    "notes":  "תיקון קריסות ספינות וגשרים ומערכת לוגים",
+    "sha256":  "47ef817f17e63e31f46173325302028a25fc778c41ef91e0c90e7571c377200f",
+    "bytes":  20827977,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
