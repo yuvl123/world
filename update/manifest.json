@@ -1,9 +1,9 @@
 {
-    "version":  81,
-    "name":  "3.45.0",
-    "notes":  "הרים וביצועים: סתימת בורות וחריצים במדרונות חדים במפת כדור הארץ עם ייצוב ביצועים ל-75 FPS חלק. יערות: עיבוי יערות וצפיפות עצים טבעית עם הבחנה בין יערות עבותים למישורים. מצלמה: שיוט חלק ועקבי בכל זום והצמדה רציפה לפני הקרקע.",
-    "sha256":  "e804141a27afd0e4edc15d5756d77d696e3361b60cdf57a4ffb74a8996a9bcdc",
-    "bytes":  20839385,
+    "version":  82,
+    "name":  "3.46.0",
+    "notes":  "יעור מפת כדור הארץ (Earth map)",
+    "sha256":  "b8dfca6aa10cabcc479da06433c472fad259eeeca3da636575849c14fc64a956",
+    "bytes":  20840265,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
