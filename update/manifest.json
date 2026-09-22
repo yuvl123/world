@@ -1,9 +1,9 @@
 {
-    "version":  82,
-    "name":  "3.46.0",
-    "notes":  "יעור מפת כדור הארץ (Earth map)",
-    "sha256":  "b8dfca6aa10cabcc479da06433c472fad259eeeca3da636575849c14fc64a956",
-    "bytes":  20840265,
+    "version":  83,
+    "name":  "3.47.0",
+    "notes":  "ביצועים: סוף לגמגום בקרבות, תיקון קפיאות והצפיפות של היחידות",
+    "sha256":  "55905b75f798d3c7d9413ef77a2076a3ddee686697c54eaf2adc55d08b1d1e38",
+    "bytes":  20842825,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
