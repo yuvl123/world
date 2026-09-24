@@ -1,9 +1,9 @@
 {
-    "version":  84,
-    "name":  "3.48.0",
-    "notes":  "תיקון דליפת זיכרון (16MB לכל משחק), ותאורה ועשן שנחתכים לפי מרחק",
-    "sha256":  "3283bdce6e410390755a2a9839d5e4e87097247fb96abf3027faac7101a226b2",
-    "bytes":  20849657,
+    "version":  85,
+    "name":  "3.49.0",
+    "notes":  "מלחמת תהילה, אספקה, התחלה מהירה, הגדרות גרפיקה ומודל חייל",
+    "sha256":  "cffc91fea77e631f630d95b2187c9dbcc684a6e91912316c499191fc5f8782fa",
+    "bytes":  20945577,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
