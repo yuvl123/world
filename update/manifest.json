@@ -1,9 +1,9 @@
 {
-    "version":  85,
-    "name":  "3.49.0",
-    "notes":  "מלחמת תהילה, אספקה, התחלה מהירה, הגדרות גרפיקה ומודל חייל",
-    "sha256":  "cffc91fea77e631f630d95b2187c9dbcc684a6e91912316c499191fc5f8782fa",
-    "bytes":  20945577,
+    "version":  86,
+    "name":  "3.50.0",
+    "notes":  "מלחמת תהילה, אספקה, התחלה מהירה, לוח תוצאות וסנכרון מלא",
+    "sha256":  "4015d12c2a3d7b123ffed5e21fb3c53b0755deb629f2d5deda8edca586850547",
+    "bytes":  20933273,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
