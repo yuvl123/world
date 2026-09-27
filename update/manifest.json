@@ -1,9 +1,9 @@
 {
-    "version":  86,
-    "name":  "3.50.0",
-    "notes":  "מלחמת תהילה, אספקה, התחלה מהירה, לוח תוצאות וסנכרון מלא",
-    "sha256":  "4015d12c2a3d7b123ffed5e21fb3c53b0755deb629f2d5deda8edca586850547",
-    "bytes":  20933273,
+    "version":  87,
+    "name":  "3.51.0",
+    "notes":  "סרטי סיום וניצחון מפוארים, פסקול ואפקטים, שיידרים ותיקוני הכרעה",
+    "sha256":  "2bdf8c8d09967ec7e3db181485235beef7caaf8354c48f634231063fa3a94568",
+    "bytes":  24262185,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
