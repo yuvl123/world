@@ -1,9 +1,9 @@
 {
-    "version":  87,
-    "name":  "3.51.0",
-    "notes":  "סרטי סיום וניצחון מפוארים, פסקול ואפקטים, שיידרים ותיקוני הכרעה",
-    "sha256":  "2bdf8c8d09967ec7e3db181485235beef7caaf8354c48f634231063fa3a94568",
-    "bytes":  24262185,
+    "version":  88,
+    "name":  "3.51.1",
+    "notes":  "תיקון הפעלת המשחק דרך PLAY.bat ב-Windows PowerShell",
+    "sha256":  "bf3e54cd4e7005d6ad71ab6552e617bee042750895c970999a6d9a5d361464a7",
+    "bytes":  25826265,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
