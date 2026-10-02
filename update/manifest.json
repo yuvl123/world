@@ -1,9 +1,9 @@
 {
-    "version":  90,
-    "name":  "3.53.0",
-    "notes":  "ספינות סוחר, מראה ופרצופים ייחודיים לכל היחידות, ערים מרווחות, כבישים ותנועה בין ערים, צלילי עיר ואזעקות",
-    "sha256":  "cd309cf56f2ba281cfed2ae6e9cf6a3044cc36d532f9bf228bfd3d31db877094",
-    "bytes":  26344169,
+    "version":  91,
+    "name":  "3.54.0",
+    "notes":  "כל השינויים החדשים מ-GitHub: ספינות סוחר, פרצופים ומראה מגוון, עולם חי, שווקים ושיירות, וממשק משודרג",
+    "sha256":  "a266cddd79a56199ca40f02867aa6caf462ab388352c0bdc00fdaec4d01a0ab8",
+    "bytes":  22803193,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
