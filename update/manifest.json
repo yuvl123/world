@@ -1,9 +1,9 @@
 {
-    "version":  89,
-    "name":  "3.52.0",
-    "notes":  "סגנון גרפי קלאסי ומודרני, אופטימיזציית שיידרים בערים, ותיקון פתיחת מצב יצירתי",
-    "sha256":  "d4537447254fd2ff4981b5a03b063c90f75a1d7db919e8ba7eb2ac2e295c3281",
-    "bytes":  25840953,
+    "version":  90,
+    "name":  "3.53.0",
+    "notes":  "ספינות סוחר, מראה ופרצופים ייחודיים לכל היחידות, ערים מרווחות, כבישים ותנועה בין ערים, צלילי עיר ואזעקות",
+    "sha256":  "cd309cf56f2ba281cfed2ae6e9cf6a3044cc36d532f9bf228bfd3d31db877094",
+    "bytes":  26344169,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
