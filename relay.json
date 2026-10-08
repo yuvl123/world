@@ -1,5 +1,5 @@
 {
-    "url":  "wss://receivers-backed-freeze-listen.trycloudflare.com",
-    "started":  "2026-10-08T17:29:35.8131635Z",
+    "url":  "wss://leonard-structured-concerns-betty.trycloudflare.com",
+    "started":  "2026-10-08T17:51:40.3530438Z",
     "note":  "Written by tools/relay/host_server.ps1. Changes every time the server restarts."
 }
