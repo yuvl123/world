@@ -1,8 +1,8 @@
 {
     "version":  91,
     "name":  "3.54.0",
-    "notes":  "כל השינויים החדשים מ-GitHub: ספינות סוחר, פרצופים ומראה מגוון, עולם חי, שווקים ושיירות, וממשק משודרג",
-    "sha256":  "a266cddd79a56199ca40f02867aa6caf462ab388352c0bdc00fdaec4d01a0ab8",
+    "notes":  "ספינות סוחר, פרצופים ומראה מגוון, עולם חי, וממשק משודרג",
+    "sha256":  "b8c2c7dc83757ddd503e703edbc788b23ef28ea0557be049fc2538e51c9c2749",
     "bytes":  22803193,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
