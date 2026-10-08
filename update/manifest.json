@@ -1,9 +1,9 @@
 {
-    "version":  91,
-    "name":  "3.54.0",
-    "notes":  "ספינות סוחר, פרצופים ומראה מגוון, עולם חי, וממשק משודרג",
-    "sha256":  "b8c2c7dc83757ddd503e703edbc788b23ef28ea0557be049fc2538e51c9c2749",
-    "bytes":  22803193,
+    "version":  92,
+    "name":  "3.55.0",
+    "notes":  "פתיחת מוד המלחמות הנפוליאוניות ומוד ממלכות הקסם",
+    "sha256":  "7b733b4426032205292d5322754af2ea557d2723bae73ec30f5182ca9d715d6b",
+    "bytes":  22803049,
     "needs_base":  1,
     "url":  "https://raw.githubusercontent.com/yuvl123/world/main/update/content.dat",
     "full_download_note":  "צריך להוריד מחדש את Dominion.exe — בקש מיובל את הקישור"
